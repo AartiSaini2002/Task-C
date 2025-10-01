@@ -1,0 +1,38 @@
+/*
+Author: Aarti Saini
+Date: 2025-09-30
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+.media-section {
+    margin-bottom: 50px;
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 8px;
+}
+
+audio, video {
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+p {
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 0.95rem;
+}
